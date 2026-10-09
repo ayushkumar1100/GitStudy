@@ -1,2 +1,2 @@
 # GitStudy
-In this repository I am learning how git and gitHub is being used in a company to make team collaboration.
+In this repository I am studying how git and gitHub is being used in a company to establish the  team collaboration.
